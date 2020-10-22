@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:npm_and_yarn" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be7f50bc-bcff-471e-888d-c892dbb6d694" name="Default Changelist" comment="Merge branch 'masterOnlyOffice' into custOO&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;#&#9;.gitmodules&#10;#&#9;.travis.yml&#10;#&#9;appveyor.yml&#10;#&#9;binding.gyp&#10;#&#9;examples/a_init.js&#10;#&#9;examples/b_addDictionary.js&#10;#&#9;examples/c_addWord.js&#10;#&#9;examples/d_removeWord.js&#10;#&#9;examples/dictionaries/readme.md&#10;#&#9;examples/e_lotsOfSuggestions.js&#10;#&#9;examples/f_stem.js&#10;#&#9;examples/g_asyncInvoke.js&#10;#&#9;examples/h_multipleWords.js&#10;#&#9;examples/i_generate.js&#10;#&#9;examples/j_analyze.js&#10;#&#9;examples/k_correct.js&#10;#&#9;package.json&#10;#&#9;readme.md&#10;#&#9;src/hunspell&#10;#&#9;src/nodehun.cpp&#10;#&#9;src/post0.12.0/nodehun.cpp&#10;#&#9;src/post0.12.0/nodehun.hpp&#10;#&#9;test/index.js">
+      <change afterPath="$PROJECT_DIR$/examples/a_init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/b_addDictionary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/c_addWord.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/d_removeWord.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/dictionaries/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/e_lotsOfSuggestions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/f_stem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/g_asyncInvoke.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/h_multipleWords.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/i_generate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/j_analyze.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/k_correct.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binding.gyp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/configs/config-other.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/configs/config-win.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nodehun.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/post0.12.0/nodehun.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/post0.12.0/nodehun.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/binding.gyp" beforeDir="false" afterPath="$PROJECT_DIR$/binding.gyp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hunspell" beforeDir="false" afterPath="$PROJECT_DIR$/src/hunspell" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="masterOnlyOffice" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="3plm8k1a" />
+  </component>
+  <component name="ProjectId" id="1jE7TdYM3PNEI7fOmN2HOc2zpMq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be7f50bc-bcff-471e-888d-c892dbb6d694" name="Default Changelist" comment="" />
+      <created>1603357407192</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603357407192</updated>
+      <workItem from="1603357409025" duration="3052000" />
+      <workItem from="1603360482592" duration="374000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge branch 'masterOnlyOffice' into custOO&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;#&#9;.gitmodules&#10;#&#9;.travis.yml&#10;#&#9;appveyor.yml&#10;#&#9;binding.gyp&#10;#&#9;examples/a_init.js&#10;#&#9;examples/b_addDictionary.js&#10;#&#9;examples/c_addWord.js&#10;#&#9;examples/d_removeWord.js&#10;#&#9;examples/dictionaries/readme.md&#10;#&#9;examples/e_lotsOfSuggestions.js&#10;#&#9;examples/f_stem.js&#10;#&#9;examples/g_asyncInvoke.js&#10;#&#9;examples/h_multipleWords.js&#10;#&#9;examples/i_generate.js&#10;#&#9;examples/j_analyze.js&#10;#&#9;examples/k_correct.js&#10;#&#9;package.json&#10;#&#9;readme.md&#10;#&#9;src/hunspell&#10;#&#9;src/nodehun.cpp&#10;#&#9;src/post0.12.0/nodehun.cpp&#10;#&#9;src/post0.12.0/nodehun.hpp&#10;#&#9;test/index.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'masterOnlyOffice' into custOO&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;#&#9;.gitmodules&#10;#&#9;.travis.yml&#10;#&#9;appveyor.yml&#10;#&#9;binding.gyp&#10;#&#9;examples/a_init.js&#10;#&#9;examples/b_addDictionary.js&#10;#&#9;examples/c_addWord.js&#10;#&#9;examples/d_removeWord.js&#10;#&#9;examples/dictionaries/readme.md&#10;#&#9;examples/e_lotsOfSuggestions.js&#10;#&#9;examples/f_stem.js&#10;#&#9;examples/g_asyncInvoke.js&#10;#&#9;examples/h_multipleWords.js&#10;#&#9;examples/i_generate.js&#10;#&#9;examples/j_analyze.js&#10;#&#9;examples/k_correct.js&#10;#&#9;package.json&#10;#&#9;readme.md&#10;#&#9;src/hunspell&#10;#&#9;src/nodehun.cpp&#10;#&#9;src/post0.12.0/nodehun.cpp&#10;#&#9;src/post0.12.0/nodehun.hpp&#10;#&#9;test/index.js" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="715" y="344" key="#Notifications" timestamp="1603357991855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="344" key="#Notifications/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1603357991855" />
+    <state x="53" y="385" key="DiffContextDialog" timestamp="1603360118373">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="53" y="385" key="DiffContextDialog/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1603360118373" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1603358466777">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1603358466777" />
+    <state x="39" y="86" width="1772" height="868" key="MergeDialog" timestamp="1603360263384">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="39" y="86" width="1772" height="868" key="MergeDialog/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1603360263384" />
+    <state x="591" y="281" key="MultipleFileMergeDialog" timestamp="1603360535535">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="591" y="281" key="MultipleFileMergeDialog/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1603360535535" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1603358129583">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1603358129583" />
+    <state x="652" y="278" key="Vcs.Multiple.Commit.Info.Dialog.Key" timestamp="1603360121853">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="652" y="278" key="Vcs.Multiple.Commit.Info.Dialog.Key/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1603360121853" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1603357606312">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1603357606312" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603359807310">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1603359807310" />
+    <state x="760" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1603357572961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="760" y="421" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040/1920.0.1680.1010@0.0.1920.1040" timestamp="1603357572961" />
+  </component>
+</project>

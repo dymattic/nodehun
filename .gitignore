@@ -1,5 +1,3 @@
-node_modules
-build
-.idea
-log.txt
-.vscode
+build/
+node_modules/
+
